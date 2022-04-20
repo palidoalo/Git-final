@@ -1,0 +1,24 @@
+
+.navbar > p{
+    color: #fff;
+}
+
+.navbar-nav{
+    margin-left: auto;
+
+}
+
+.banner{
+    position:relative
+}
+.banner img{
+    width:100%
+}
+.banner .container{
+    position: absolute; left:0; right:0; top:50%; text-align:left; transform:translateY(-50%)
+}
+
+.home_slider_content{
+    margin-bottom: 90px;
+    font-weight: bold;
+}
